@@ -1,0 +1,6 @@
+{
+    "nav": {
+        "welcome": "Bienvenue {{name}}",
+        "add": "Ajouter un restaurant"
+    } 
+}

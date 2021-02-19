@@ -33,7 +33,7 @@ Future Development:
 
 ## Getting Started
 Cloning the repository:
-https://github.com/thorn18/ProjectTwo_Tequesha_ReactIt.git
+https://github.com/tgatling/reactit.git
 
 Back-end (p2-express):
 * Directory -> cd ProjectTwo_Tequesha_ReactIt/p2-express

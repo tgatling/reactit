@@ -36,14 +36,14 @@ Cloning the repository:
 https://github.com/tgatling/reactit.git
 
 Back-end (p2-express):
-* Directory -> cd ProjectTwo_Tequesha_ReactIt/p2-express
+* Directory -> cd reactit/p2-express
 * Installation -> npm install
 * AWS Configuration -> aws configure
 * Setup DynamoDB tables -> npm run setup
 * Run program -> npm run start
 
 Front-end (reactit-native):
-* Directory -> cd ProjectTwo_Tequesha_ReactIt/reactit-native
+* Directory -> cd reactit/reactit-native
 * Installation -> npm install
 * Run program -> npm run start
 
